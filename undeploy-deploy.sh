@@ -5,3 +5,4 @@ for i in $Application
 do
 /u01/app/oracle/middleware/wls12ca/oracle_common/common/bin/wlst.sh $SCRIPT_PATH/undeploy-deploy.py $i
 done
+
